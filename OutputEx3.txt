@@ -1,0 +1,5 @@
+Longest word is: misaila
+Shortest word is: alex
+First alphabetic word is: alex
+Last alphabetic word is: oprisan
+Number of words is: 6
